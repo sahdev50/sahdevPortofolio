@@ -412,6 +412,7 @@
 
 @media (max-width: 667px) {
   .third-section {
+    margin-top: 120%;
     height: 160vh;
   }
 }
