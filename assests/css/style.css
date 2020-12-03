@@ -6,6 +6,7 @@
   background-color: black;
   box-shadow: 2px 2px 18px -3px rgba(245, 245, 245, 0.24);
 }
+
 .navItems {
   margin-left: 50%;
   text-align: center;
@@ -400,5 +401,11 @@
   }
   .wrapper div {
     left: 22%;
+  }
+}
+@media (max-width: 568px) {
+  .third-section {
+    margin-top: 110%;
+    height: 190vh;
   }
 }
